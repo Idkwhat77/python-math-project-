@@ -1,7 +1,7 @@
 from Fitur.sum import calculate_sum
 from Fitur.difference import calculate_difference
 from Fitur.product import calculate_product
-from Fitur.divison import calculate_division
+from Fitur.division import calculate_division
 
 a = 10
 b = 5
